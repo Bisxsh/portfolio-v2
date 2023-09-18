@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://https://bisesh-portfolio-v1.netlify.app/" target="_blank">
+  <a href="https://https://bisesh.dev" target="_blank">
   <img src="https://img.shields.io/website?url=https%3A%2F%2Fbisesh.dev" />
 </p>
 

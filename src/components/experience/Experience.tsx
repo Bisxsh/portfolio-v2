@@ -21,7 +21,7 @@ const Experience = () => {
         <ExperienceListing
           companyName="AvcoSystems"
           jobTitle="Placement Software Engineer"
-          dates="Jun. 2023 - Present"
+          dates="Jun. 2023 - Jun. 2024"
           description={[
             "Updated an existing API endpoint in Go to incorporate newly established client requirements",
             "Created unit and system tests to maintain code robustness, maintaining over 70% unit test coverage across issues",
